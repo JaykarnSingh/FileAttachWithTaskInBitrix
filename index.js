@@ -20,8 +20,8 @@
 // const upload = multer({ storage });
 
 // const DOMAIN = 'me.itachyon.com';
-// const ACCESS_TOKEN = 'a118fc64006328eb005d771f00000a6a584d076d234833790849327ba5836bbeefd289'; // Replace with your actual access token
-// const chatId = '5944';
+// const ACCESS_TOKEN = ''; // Replace with your actual access token
+// const chatId = '';
 
 // // Function to get the folder ID
 // async function getFolderId() {
@@ -174,7 +174,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage });
 
 const DOMAIN = 'me.itachyon.com';
-const ACCESS_TOKEN = '2e0bfc64006328eb005d771f00000a6a584d072f652cebfdcbc4bcf08b885772397ec4'; // Replace with your actual access token
+const ACCESS_TOKEN = ''; // Replace with your actual access token
 
 
 const TASK_ID = 6409;
